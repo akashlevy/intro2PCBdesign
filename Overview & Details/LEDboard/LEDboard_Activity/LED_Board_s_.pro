@@ -1,4 +1,4 @@
-update=Wednesday, April 15, 2020 at 09:31:10 PM
+update=Monday, April 27, 2020 at 09:46:14 PM
 version=1
 last_client=kicad
 [general]
@@ -250,6 +250,17 @@ dPairViaGap=0.25
 Name=Skinny
 Clearance=0.1524
 TrackWidth=0.2
+ViaDiameter=0.8
+ViaDrill=0.4
+uViaDiameter=0.3
+uViaDrill=0.1
+dPairWidth=0.2
+dPairGap=0.25
+dPairViaGap=0.25
+[pcbnew/Netclasses/2]
+Name=jlpcb
+Clearance=0.127
+TrackWidth=0.25
 ViaDiameter=0.8
 ViaDrill=0.4
 uViaDiameter=0.3
